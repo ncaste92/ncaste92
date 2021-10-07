@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ncaste92
-- 👀 I’m interested in Economics, data science and general in statistics
+- 👀 I’m interested in Economics, data science and more in general in statistics
 - 🌱 I’m currently learning how to use GitHub ahahahah
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
